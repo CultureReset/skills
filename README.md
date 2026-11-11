@@ -1,3 +1,14 @@
+> **CultureReset fork of [mattpocock/skills](https://github.com/mattpocock/skills).** Skills for Real Engineers. Straight from my .agents directory.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/mattpocock/skills).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">
     <picture>
